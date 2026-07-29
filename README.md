@@ -1,5 +1,5 @@
 <div align="center">
-  <video src="huh.mp4" width="600" autoplay loop muted controls></video>
+  <img src="huh.gif" width="600" alt="Header Animation" />
   <br/><br/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=You+Know+Who+Am+I" alt="Typing SVG" />
